@@ -1,0 +1,21 @@
+.shed{
+    margin: 50px;
+    border: 50px;
+    padding: 50px;
+    text-align: left;
+    background-color:solid blueviolet;
+}
+.header{
+    background-color: blueviolet;
+    text-align: center;
+    margin: 40px;
+    padding: 20px;
+}
+.report{
+    align-items:center;
+    background-color:solid pink;
+}
+#buying{
+    background-color: solid greenyellow;
+    
+}
